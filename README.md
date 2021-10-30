@@ -6,6 +6,7 @@
 <a href="https://codepen.io/kunyuchang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kunyuchang" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kunyuchang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunyuchang" height="30" width="40" /></a>
 <a href="https://fb.com/kunyu.chang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kunyu.chang" height="30" width="40" /></a>
+<a href="https://twitter.com/mischiefsub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mischiefsub" height="30" width="40" /></a>
 <a href="https://medium.com/@kunyuchang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kunyuchang" height="30" width="40" /></a>
 </p>
 
