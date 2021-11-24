@@ -1,4 +1,4 @@
-<p>I'm Kun-Yu Chang. I build full-stack apps with javascript and express.</p>
+<p>I'm Kun-Yu Chang. I build full-stack apps with javascript, php and mysql.</p>
 <p>Fan of squash 🎾 and postcast 🎙 .</p>
 
 <h3 align="left">Connect with me:</h3>
