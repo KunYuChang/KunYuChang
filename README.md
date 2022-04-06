@@ -1,7 +1,7 @@
 <p>哈囉，我是張昆裕😎</p>
-<p>中正大學資管所，專長為使用 Javascript, PHP, PostgreSQL 建立 Web 應用程式。</p>
-<p>是個注重聽覺的人，興趣為聽Postcast。</p>
-<p>為了持久力，會做瑜珈和打壁球。</p>
+<p>畢業於中正大學資管所，專長為使用 Javascript, PHP, PostgreSQL 建立 Web 應用程式。</p>
+<p>興趣為聽 Postcast，是個注重聽覺的人。</p>
+<p>偶爾瑜珈和打壁球。</p>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://codepen.io/kunyuchang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kunyuchang" height="30" width="40" /></a>
