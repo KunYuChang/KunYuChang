@@ -1,14 +1,10 @@
-<p>哈囉，我是張昆裕😎</p>
-<p>畢業於中正大學資管所，專長為使用 Javascript, PHP, PostgreSQL 建立 Web 應用程式。</p>
-<p>興趣為聽 Postcast，是個注重聽覺的人。</p>
-<p>偶爾瑜珈和打壁球。</p>
-
 <p>哈囉，我是張昆裕，目前在中正大學擔任軟體工程師。</p>
 <p>畢業於中正大學資管所，專長為使用 JavaScript, PHP, PostgreSQL 建立 WEB 系統。</p>
 <p>在工作中，我除了使用這些語言和資料庫外，也學習了許多技術和工具，例如 Docker、SonarQube 等等。</p>
 <p>興趣方面，我喜愛聽 Podcast，並且會利用下班時間練瑜珈和打壁球來保持身心健康。</p>
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">歡迎聯絡我：</h3>
 <a href="https://codepen.io/kunyuchang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kunyuchang" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kunyuchang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunyuchang" height="30" width="40" /></a>
 <a href="https://fb.com/kunyu.chang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kunyu.chang" height="30" width="40" /></a>
@@ -17,7 +13,7 @@
 
 
 <!-- Languages and Tools section -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">程式語言與工具：</h3>
 <p align="left">
    <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
