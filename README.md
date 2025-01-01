@@ -14,58 +14,85 @@
 
 <!-- Languages and Tools section -->
 <h3 align="left">程式語言與工具：</h3>
-<p align="left">
+
+<div>
    <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
   </a>
  
    <!-- CSS3 -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
   </a>
+
+   <!-- Bootstrap -->
+   <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
+     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" width="50" height="50" />
+  </a>  
  
    <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
   </a>
- 
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-</p>
 
-<p align="left">
-   <!-- PHP -->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+   <!-- jQuery -->
+  <a href="https://jquery.com/" target="_blank">
+     <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" width="50" height="50" />
   </a>
- 
-   <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</div>
+
+<div>
+  <!-- PHP -->
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
   </a>
- 
+
   <!-- CodeIgniter -->
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
+  <a href="https://codeigniter.com" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="50" height="50"/>
   </a>
-</p>
 
-<p align="left">
+  <!-- Laravel -->
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" width="50" height="50" />
+  </a>  
+
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
+  </a>
+
+   <!-- Bash -->
+   <a href="https://www.gnu.org/software/bash/" target="_blank">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+   </a> 
+</div>
+
+<div>
    <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
+   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+   </a>
 
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+   <!-- Docker -->
+   <a href="https://www.docker.com/" target="_blank">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" width="50" height="50" />
+   </a> 
 
-  <!-- Postman -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-</p>
+   <!-- Nginx -->
+   <a href="https://www.nginx.com/" target="_blank">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" width="50" height="50" />
+   </a> 
+
+   <!-- Git -->
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+   </a>
+
+   <!-- Postman -->
+   <a href="https://postman.com" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+   </a>
+</div>
+
