@@ -16,6 +16,11 @@
 <h3 align="left">程式語言與工具：</h3>
 
 <div>
+   <!-- Vue -->
+      <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+         <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" width="50" height="50"/>
+     </a>
+   
    <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
