@@ -48,6 +48,11 @@
 </div>
 
 <div>
+   <!-- FastAPI -->
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/156354296" width="50" height="50"/>
+  </a>
+   
   <!-- PHP -->
   <a href="https://www.php.net" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
